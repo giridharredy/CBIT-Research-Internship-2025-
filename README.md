@@ -30,6 +30,6 @@ My internship also included a **Capstone Project**:
 
 ## 📜 Certificates
 - [Basics of Python Certificate]([certificates/basics-of-python.pdf](https://drive.google.com/file/d/1DzR6-VYDgcMeoD-PysQGmwa9dQCau2sK/view?usp=sharing))
-- [Machine Learning Certificate](https://drive.google.com/file/d/1GND84fEe_h4TrmaQvROYQ9mDi5CGeLAO/view?usp=sharing)
+- [Machine Learning Certificate]([https://drive.google.com/file/d/1GND84fEe_h4TrmaQvROYQ9mDi5CGeLAO/view?usp=sharing])
 - [Deep Learning Specialization (Ongoing)]
 
