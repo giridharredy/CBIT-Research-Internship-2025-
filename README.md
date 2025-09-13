@@ -9,12 +9,11 @@ This repository contains my work, achievements, and learning resources from my *
 - Duration: **July-2025**
 - Domain: Machine learning and Deep learning
 - Mentor: Prof R Kolikipogu
-- 
 ---
 
 ## 🚀 Capstone Project
 My internship also included a **Capstone Project**:  
-👉 [View the Capstone Repo]((https://github.com/giridharredy/Capstone-Project-Research-Internship-CBIT))
+👉 [View the Capstone Repo](https://github.com/giridharredy/Capstone-Project-Research-Internship-CBIT)
 
 ---
 
